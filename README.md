@@ -76,6 +76,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/thatssushmit/thatssushmit/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/thatssushmit/thatssushmit/output/snake.svg](https://github.com/thatssushmit/thatssushmit/blob/main/snake.yml)" alt="Snake animation" />
+
 
 ###
