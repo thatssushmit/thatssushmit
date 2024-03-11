@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatsushmit&label=Profile%20views&color=0e75b6&style=flat" alt="thatsushmit" /> </p>
 
-- 🔭 I’m currently working on [H&M group](https://hmgroup.com/)
+- 🔭 I’m currently working for [H&M group](https://hmgroup.com/)
 
 - 🌱 I’m currently learning **react Native**
 
@@ -31,9 +31,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatsushmit&show_icons=true&locale=en&layout=compact" alt="thatsushmit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thatsushmit&show_icons=true&locale=en" alt="thatsushmit" /></p>
-
-
-<h2 align="left">Hi 👋! My name is Sushmit and I'm a ..., from ....</h2>
 
 ###
 
